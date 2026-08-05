@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Round variant of the launcher icon (circle crop) -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Circular background -->
+    <path
+        android:pathData="M54,0 m-54,0 a54,54 0 1,0 108,0 a54,54 0 1,0 -108,0"
+        android:fillColor="#1A1A2E" />
+
+    <!-- Accent ring -->
+    <path
+        android:pathData="M54,0 m-38,0 a38,38 0 1,0 76,0 a38,38 0 1,0 -76,0"
+        android:fillColor="#3A7BF7"
+        android:fillAlpha="0.15" />
+
+    <!-- Up arrow -->
+    <path
+        android:pathData="M54,24 L61,36 L47,36 Z"
+        android:fillColor="#3A7BF7" />
+
+    <!-- Down arrow -->
+    <path
+        android:pathData="M54,84 L61,72 L47,72 Z"
+        android:fillColor="#FFFFFF"
+        android:fillAlpha="0.6" />
+
+    <!-- Left arrow -->
+    <path
+        android:pathData="M18,54 L30,47 L30,61 Z"
+        android:fillColor="#FFFFFF"
+        android:fillAlpha="0.6" />
+
+    <!-- Right arrow -->
+    <path
+        android:pathData="M90,54 L78,47 L78,61 Z"
+        android:fillColor="#FFFFFF"
+        android:fillAlpha="0.6" />
+
+    <!-- Center stop dot -->
+    <path
+        android:pathData="M54,54 m-7,0 a7,7 0 1,0 14,0 a7,7 0 1,0 -14,0"
+        android:fillColor="#D63031" />
+</vector>

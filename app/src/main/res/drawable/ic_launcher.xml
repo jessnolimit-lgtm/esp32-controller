@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- App launcher icon — rounded square with "RC" symbol -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Background -->
+    <path
+        android:pathData="M0,16 Q0,0 16,0 L92,0 Q108,0 108,16 L108,92 Q108,108 92,108 L16,108 Q0,108 0,92 Z"
+        android:fillColor="#1A1A2E" />
+
+    <!-- Accent stripe -->
+    <path
+        android:pathData="M0,50 L108,50 L108,58 L0,58 Z"
+        android:fillColor="#3A7BF7"
+        android:fillAlpha="0.3" />
+
+    <!-- Joystick base circle -->
+    <path
+        android:pathData="M54,62 m-18,0 a18,18 0 1,0 36,0 a18,18 0 1,0 -36,0"
+        android:fillColor="#2A3A6E" />
+
+    <!-- Joystick stick -->
+    <path
+        android:pathData="M54,62 m-4,0 a4,4 0 1,0 8,0 a4,4 0 1,0 -8,0"
+        android:fillColor="#3A7BF7" />
+
+    <!-- Up arrow -->
+    <path
+        android:pathData="M54,30 L60,42 L48,42 Z"
+        android:fillColor="#3A7BF7" />
+
+    <!-- Down arrow -->
+    <path
+        android:pathData="M54,88 L60,76 L48,76 Z"
+        android:fillColor="#FFFFFF"
+        android:fillAlpha="0.6" />
+
+    <!-- Left arrow -->
+    <path
+        android:pathData="M20,54 L32,48 L32,60 Z"
+        android:fillColor="#FFFFFF"
+        android:fillAlpha="0.6" />
+
+    <!-- Right arrow -->
+    <path
+        android:pathData="M88,54 L76,48 L76,60 Z"
+        android:fillColor="#FFFFFF"
+        android:fillAlpha="0.6" />
+</vector>

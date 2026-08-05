@@ -1,0 +1,24 @@
+R_DEF: Internal format may change without notice
+local
+color accent_blue
+color bg_dark
+color btn_direction
+color btn_stop
+color status_connected
+color status_disconnected
+color status_pill_bg
+color text_secondary
+color white
+drawable bg_status_pill
+drawable ic_launcher
+drawable ic_launcher_round
+id btnBackward
+id btnConnect
+id btnForward
+id btnLeft
+id btnRight
+id btnStop
+id tvStatus
+layout activity_main
+string app_name
+style Theme.RCCarController

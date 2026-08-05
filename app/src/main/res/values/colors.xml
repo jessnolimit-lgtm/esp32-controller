@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App colors -->
+    <color name="bg_dark">#1A1A2E</color>
+    <color name="accent_blue">#3A7BF7</color>
+    <color name="btn_direction">#2A3A6E</color>
+    <color name="btn_stop">#D63031</color>
+    <color name="white">#FFFFFF</color>
+    <color name="text_secondary">#8890A4</color>
+
+    <!-- Status badge colors -->
+    <color name="status_connected">#00B894</color>
+    <color name="status_disconnected">#8890A4</color>
+    <color name="status_pill_bg">#252547</color>
+</resources>

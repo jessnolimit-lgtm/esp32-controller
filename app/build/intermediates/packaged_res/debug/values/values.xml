@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent_blue">#3A7BF7</color>
+    <color name="bg_dark">#1A1A2E</color>
+    <color name="btn_direction">#2A3A6E</color>
+    <color name="btn_stop">#D63031</color>
+    <color name="status_connected">#00B894</color>
+    <color name="status_disconnected">#8890A4</color>
+    <color name="status_pill_bg">#252547</color>
+    <color name="text_secondary">#8890A4</color>
+    <color name="white">#FFFFFF</color>
+    <string name="app_name">RC Car Controller</string>
+    <style name="Theme.RCCarController" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/accent_blue</item>
+        <item name="colorPrimaryVariant">@color/btn_direction</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="android:windowBackground">@color/bg_dark</item>
+        <item name="android:statusBarColor">@color/bg_dark</item>
+        <item name="android:navigationBarColor">@color/bg_dark</item>
+    </style>
+</resources>
