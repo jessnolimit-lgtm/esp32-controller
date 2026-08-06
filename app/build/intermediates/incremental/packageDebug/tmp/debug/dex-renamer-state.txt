@@ -1,7 +1,7 @@
-#Wed Aug 05 17:15:53 SGT 2026
-base.0=C\:\\Users\\tidul\\OneDrive\\Documents\\esp32\\RC_Car_Controller\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
-base.1=C\:\\Users\\tidul\\OneDrive\\Documents\\esp32\\RC_Car_Controller\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
-base.2=C\:\\Users\\tidul\\OneDrive\\Documents\\esp32\\RC_Car_Controller\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\1\\classes.dex
+#Wed Aug 05 23:15:03 PST 2026
+base.0=/home/wayne/Documents/GITREPO/esp32-controller/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
+base.1=/home/wayne/Documents/GITREPO/esp32-controller/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
+base.2=/home/wayne/Documents/GITREPO/esp32-controller/app/build/intermediates/dex/debug/mergeProjectDexDebug/1/classes.dex
 path.0=classes.dex
 path.1=0/classes.dex
 path.2=1/classes.dex

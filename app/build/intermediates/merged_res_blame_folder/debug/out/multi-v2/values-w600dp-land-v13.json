@@ -4,7 +4,7 @@
             "outputFile": "com.example.rccarcontroller.app-mergeDebugResources-29:/values-w600dp-land-v13/values-w600dp-land-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\tidul\\.gradle\\caches\\transforms-3\\901bea8934a37070ec38e6eb501e75cf\\transformed\\material-1.12.0\\res\\values-w600dp-land-v13\\values-w600dp-land-v13.xml",
+                    "source": "/home/wayne/.gradle/caches/transforms-3/901bea8934a37070ec38e6eb501e75cf/transformed/material-1.12.0/res/values-w600dp-land-v13/values-w600dp-land-v13.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

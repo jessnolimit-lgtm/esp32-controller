@@ -1,13 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="accent_blue">#3A7BF7</color>
-    <color name="bg_dark">#1A1A2E</color>
-    <color name="btn_direction">#2A3A6E</color>
-    <color name="btn_stop">#D63031</color>
-    <color name="status_connected">#00B894</color>
-    <color name="status_disconnected">#8890A4</color>
-    <color name="status_pill_bg">#252547</color>
-    <color name="text_secondary">#8890A4</color>
+    <color name="accent_blue_dim">#1E3A80</color>
+    <color name="accent_teal">#00CEC9</color>
+    <color name="bg_button">#252545</color>
+    <color name="bg_card">#16162A</color>
+    <color name="bg_dark">#0D0D14</color>
+    <color name="bg_panel">#1C1C30</color>
+    <color name="btn_direction">#1E2D6B</color>
+    <color name="btn_stop">#C0392B</color>
+    <color name="btn_stop_dim">#5C1A14</color>
+    <color name="gauge_fill">#3A7BF7</color>
+    <color name="gauge_needle">#E74C3C</color>
+    <color name="gauge_track">#1E1E38</color>
+    <color name="light_off">#2A2A45</color>
+    <color name="light_on_amber">#F39C12</color>
+    <color name="light_on_red">#E74C3C</color>
+    <color name="light_on_white">#ECF0F1</color>
+    <color name="status_connected">#00D68F</color>
+    <color name="status_disconnected">#6C7494</color>
+    <color name="status_pill_bg">#1C1C38</color>
+    <color name="text_label">#9BA3C2</color>
+    <color name="text_secondary">#6C7494</color>
     <color name="white">#FFFFFF</color>
     <string name="app_name">RC Car Controller</string>
     <style name="Theme.RCCarController" parent="Theme.MaterialComponents.DayNight.NoActionBar">

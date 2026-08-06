@@ -1,18 +1,86 @@
 [
     {
+        "merged": "/home/wayne/.gradle/daemon/8.2/com.example.rccarcontroller.app-merged_res-31:/drawable_ripple_stop_btn.xml.flat",
+        "source": "/home/wayne/.gradle/daemon/8.2/com.example.rccarcontroller.app-main-33:/drawable/ripple_stop_btn.xml"
+    },
+    {
         "merged": "com.example.rccarcontroller.app-merged_res-31:/layout_activity_main.xml.flat",
         "source": "com.example.rccarcontroller.app-main-33:/layout/activity_main.xml"
     },
     {
-        "merged": "com.example.rccarcontroller.app-merged_res-31:/drawable_ic_launcher_round.xml.flat",
-        "source": "com.example.rccarcontroller.app-main-33:/drawable/ic_launcher_round.xml"
+        "merged": "/home/wayne/.gradle/daemon/8.2/com.example.rccarcontroller.app-merged_res-31:/drawable_ic_arrow_left_signal.xml.flat",
+        "source": "/home/wayne/.gradle/daemon/8.2/com.example.rccarcontroller.app-main-33:/drawable/ic_arrow_left_signal.xml"
     },
     {
-        "merged": "com.example.rccarcontroller.app-merged_res-31:/drawable_bg_status_pill.xml.flat",
-        "source": "com.example.rccarcontroller.app-main-33:/drawable/bg_status_pill.xml"
+        "merged": "/home/wayne/.gradle/daemon/8.2/com.example.rccarcontroller.app-merged_res-31:/layout_activity_main.xml.flat",
+        "source": "/home/wayne/.gradle/daemon/8.2/com.example.rccarcontroller.app-main-33:/layout/activity_main.xml"
     },
     {
-        "merged": "com.example.rccarcontroller.app-merged_res-31:/drawable_ic_launcher.xml.flat",
-        "source": "com.example.rccarcontroller.app-main-33:/drawable/ic_launcher.xml"
+        "merged": "/home/wayne/.gradle/daemon/8.2/com.example.rccarcontroller.app-merged_res-31:/drawable_ic_arrow_right.xml.flat",
+        "source": "/home/wayne/.gradle/daemon/8.2/com.example.rccarcontroller.app-main-33:/drawable/ic_arrow_right.xml"
+    },
+    {
+        "merged": "/home/wayne/.gradle/daemon/8.2/com.example.rccarcontroller.app-merged_res-31:/drawable_ic_arrow_right_signal.xml.flat",
+        "source": "/home/wayne/.gradle/daemon/8.2/com.example.rccarcontroller.app-main-33:/drawable/ic_arrow_right_signal.xml"
+    },
+    {
+        "merged": "/home/wayne/.gradle/daemon/8.2/com.example.rccarcontroller.app-merged_res-31:/drawable_ic_horn.xml.flat",
+        "source": "/home/wayne/.gradle/daemon/8.2/com.example.rccarcontroller.app-main-33:/drawable/ic_horn.xml"
+    },
+    {
+        "merged": "/home/wayne/.gradle/daemon/8.2/com.example.rccarcontroller.app-merged_res-31:/drawable_ic_arrow_down.xml.flat",
+        "source": "/home/wayne/.gradle/daemon/8.2/com.example.rccarcontroller.app-main-33:/drawable/ic_arrow_down.xml"
+    },
+    {
+        "merged": "/home/wayne/.gradle/daemon/8.2/com.example.rccarcontroller.app-merged_res-31:/drawable_bg_circle_btn.xml.flat",
+        "source": "/home/wayne/.gradle/daemon/8.2/com.example.rccarcontroller.app-main-33:/drawable/bg_circle_btn.xml"
+    },
+    {
+        "merged": "/home/wayne/.gradle/daemon/8.2/com.example.rccarcontroller.app-merged_res-31:/drawable_bg_status_pill.xml.flat",
+        "source": "/home/wayne/.gradle/daemon/8.2/com.example.rccarcontroller.app-main-33:/drawable/bg_status_pill.xml"
+    },
+    {
+        "merged": "/home/wayne/.gradle/daemon/8.2/com.example.rccarcontroller.app-merged_res-31:/drawable_bg_card.xml.flat",
+        "source": "/home/wayne/.gradle/daemon/8.2/com.example.rccarcontroller.app-main-33:/drawable/bg_card.xml"
+    },
+    {
+        "merged": "/home/wayne/.gradle/daemon/8.2/com.example.rccarcontroller.app-merged_res-31:/drawable_ic_launcher.xml.flat",
+        "source": "/home/wayne/.gradle/daemon/8.2/com.example.rccarcontroller.app-main-33:/drawable/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/wayne/.gradle/daemon/8.2/com.example.rccarcontroller.app-merged_res-31:/drawable_bg_light_indicator.xml.flat",
+        "source": "/home/wayne/.gradle/daemon/8.2/com.example.rccarcontroller.app-main-33:/drawable/bg_light_indicator.xml"
+    },
+    {
+        "merged": "/home/wayne/.gradle/daemon/8.2/com.example.rccarcontroller.app-merged_res-31:/drawable_ic_arrow_up.xml.flat",
+        "source": "/home/wayne/.gradle/daemon/8.2/com.example.rccarcontroller.app-main-33:/drawable/ic_arrow_up.xml"
+    },
+    {
+        "merged": "/home/wayne/.gradle/daemon/8.2/com.example.rccarcontroller.app-merged_res-31:/drawable_ripple_direction_btn.xml.flat",
+        "source": "/home/wayne/.gradle/daemon/8.2/com.example.rccarcontroller.app-main-33:/drawable/ripple_direction_btn.xml"
+    },
+    {
+        "merged": "/home/wayne/.gradle/daemon/8.2/com.example.rccarcontroller.app-merged_res-31:/drawable_ic_hazard.xml.flat",
+        "source": "/home/wayne/.gradle/daemon/8.2/com.example.rccarcontroller.app-main-33:/drawable/ic_hazard.xml"
+    },
+    {
+        "merged": "/home/wayne/.gradle/daemon/8.2/com.example.rccarcontroller.app-merged_res-31:/drawable_ic_arrow_left.xml.flat",
+        "source": "/home/wayne/.gradle/daemon/8.2/com.example.rccarcontroller.app-main-33:/drawable/ic_arrow_left.xml"
+    },
+    {
+        "merged": "/home/wayne/.gradle/daemon/8.2/com.example.rccarcontroller.app-merged_res-31:/drawable_ic_launcher_round.xml.flat",
+        "source": "/home/wayne/.gradle/daemon/8.2/com.example.rccarcontroller.app-main-33:/drawable/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/wayne/.gradle/daemon/8.2/com.example.rccarcontroller.app-merged_res-31:/drawable_ripple_accent_btn.xml.flat",
+        "source": "/home/wayne/.gradle/daemon/8.2/com.example.rccarcontroller.app-main-33:/drawable/ripple_accent_btn.xml"
+    },
+    {
+        "merged": "/home/wayne/.gradle/daemon/8.2/com.example.rccarcontroller.app-merged_res-31:/drawable_ic_headlight.xml.flat",
+        "source": "/home/wayne/.gradle/daemon/8.2/com.example.rccarcontroller.app-main-33:/drawable/ic_headlight.xml"
+    },
+    {
+        "merged": "/home/wayne/.gradle/daemon/8.2/com.example.rccarcontroller.app-merged_res-31:/drawable_ic_stop.xml.flat",
+        "source": "/home/wayne/.gradle/daemon/8.2/com.example.rccarcontroller.app-main-33:/drawable/ic_stop.xml"
     }
 ]
